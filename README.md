@@ -31,7 +31,9 @@
 | [**Alvora**](https://github.com/davidcrp/alvora-site) | Site institucional de chalés pré-fabricados | Next.js · Tailwind |
 | [**Chalé A-Frame 3D**](https://github.com/davidcrp/chale-aframe-3d) | Planta 3D interativa de chalé no navegador | HTML · 3D |
 | [**TP Hazelcast**](https://github.com/davidcrp/bcc362-tp01-hazelcast) | Soma distribuída em cluster Hazelcast (Sistemas Distribuídos, UFOP) | Java · Hazelcast |
+| [**TP1 ED2**](https://github.com/davidcrp/tp1-ED2) | Pesquisa externa: sequencial indexado, árvore binária, B e B* (UFOP) | C |
+| [**TP2 ED2**](https://github.com/davidcrp/tp2-ED2) | Ordenação externa: intercalação 2f, f+1 e quicksort externo (UFOP) | C |
 
 ## 🛠️ Tecnologias
 
-`TypeScript` `JavaScript` `Python` `React` `Next.js` `Node.js` `Express` `Flask` `Tailwind CSS` `Supabase` `PostgreSQL` `Prisma` `Vercel`
+`TypeScript` `JavaScript` `Python` `Java` `C` `React` `Next.js` `Node.js` `Express` `Flask` `Tailwind CSS` `Supabase` `PostgreSQL` `Prisma` `Vercel`
