@@ -30,6 +30,7 @@
 | [**Dica de Ouro**](https://github.com/davidcrp/dica-de-ouro) | Guia de Ouro Preto com mapa, eventos e assistente de IA | Next.js · Supabase · Leaflet |
 | [**Alvora**](https://github.com/davidcrp/alvora-site) | Site institucional de chalés pré-fabricados | Next.js · Tailwind |
 | [**Chalé A-Frame 3D**](https://github.com/davidcrp/chale-aframe-3d) | Planta 3D interativa de chalé no navegador | HTML · 3D |
+| [**TP Hazelcast**](https://github.com/davidcrp/bcc362-tp01-hazelcast) | Soma distribuída em cluster Hazelcast (Sistemas Distribuídos, UFOP) | Java · Hazelcast |
 
 ## 🛠️ Tecnologias
 
