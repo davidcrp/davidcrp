@@ -28,6 +28,7 @@
 | [**Minerador de Ofertas**](https://github.com/davidcrp/minerador-ofertas) | Extensão Chrome + backend para minerar ofertas na Ad Library | Python · Flask · Postgres |
 | [**CortaAí**](https://github.com/davidcrp/cortaai) | SaaS de agendamento online para barbearias | Next.js · Clerk |
 | [**Dica de Ouro**](https://github.com/davidcrp/dica-de-ouro) | Guia de Ouro Preto com mapa, eventos e assistente de IA | Next.js · Supabase · Leaflet |
+| [**MultiCar**](https://github.com/davidcrp/multicar) | Site de revenda de veículos com painel administrativo | Next.js · Drizzle · Postgres |
 | [**Alvora**](https://github.com/davidcrp/alvora-site) | Site institucional de chalés pré-fabricados | Next.js · Tailwind |
 | [**Chalé A-Frame 3D**](https://github.com/davidcrp/chale-aframe-3d) | Planta 3D interativa de chalé no navegador | HTML · 3D |
 | [**BellezaSys**](https://github.com/davidcrp/BellezaSys) | Agendamentos para salões de beleza com chatbot e IA local (Eng. de Software, UFOP) | C++ · Qt · Ollama |
