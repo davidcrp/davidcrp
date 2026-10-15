@@ -30,6 +30,7 @@
 | [**Dica de Ouro**](https://github.com/davidcrp/dica-de-ouro) | Guia de Ouro Preto com mapa, eventos e assistente de IA | Next.js · Supabase · Leaflet |
 | [**MultiCar**](https://github.com/davidcrp/multicar) | Site de revenda de veículos com painel administrativo | Next.js · Drizzle · Postgres |
 | [**Alvora**](https://github.com/davidcrp/alvora-site) | Site institucional de chalés pré-fabricados | Next.js · Tailwind |
+| [**PHD Energia Solar**](https://github.com/davidcrp/phd-energia-solar) | Landing page de captação de leads para empresa de energia solar | HTML · CSS · JS |
 | [**Chalé A-Frame 3D**](https://github.com/davidcrp/chale-aframe-3d) | Planta 3D interativa de chalé no navegador | HTML · 3D |
 | [**BellezaSys**](https://github.com/davidcrp/BellezaSys) | Agendamentos para salões de beleza com chatbot e IA local (Eng. de Software, UFOP) | C++ · Qt · Ollama |
 | [**TERMO**](https://github.com/davidcrp/TP-POO2) | Jogo estilo Wordle com interface gráfica e MVC (POO, UFOP) | Java · Swing |
