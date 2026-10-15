@@ -4,7 +4,6 @@ on:
   schedule: [{cron: "0 6 * * *"}]
   # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
-  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
